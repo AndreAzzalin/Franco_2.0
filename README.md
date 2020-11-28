@@ -34,6 +34,6 @@ This robot is an upgrade of [Franco 1.0](https://github.com/AndreAzzalin/Franco_
 
 ![](https://github.com/AndreAzzalin/Franco_2.0/blob/main/Immagine2.jpg)
 ![](https://github.com/AndreAzzalin/Franco_2.0/blob/main/Immagine4.jpg)
-![](https://github.com/AndreAzzalin/Franco_2.0/blob/main/Immagine5.jpg)
+![](https://github.com/AndreAzzalin/Franco_2.0/blob/main/immagine5.jpg)
 
 ## In Action 
